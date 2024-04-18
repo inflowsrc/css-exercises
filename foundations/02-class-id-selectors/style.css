@@ -1,0 +1,19 @@
+.black-and-pink {
+    background-color: #FFB6C1;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#div-one {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.large-font {
+    font-size: 24px;
+}
+
+#div-two {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
